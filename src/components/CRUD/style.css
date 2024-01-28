@@ -96,3 +96,10 @@ body {
   gap: 5vmin;
 }
 
+.form__items input {
+  outline: none;
+  padding: 10px 5px;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 10px;
+}
